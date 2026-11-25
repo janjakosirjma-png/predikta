@@ -1,0 +1,3 @@
+slovar.js in kontekst.js: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+Izvorni viri: Sloleks 3.1 (https://hdl.handle.net/11356/2080), Gigafida 2.0 frekvenčni seznami (https://hdl.handle.net/11356/1273) in n-grami (https://hdl.handle.net/11356/1274). Bibliografske navedbe so v index.html, zavihek O aplikaciji, viri in licence.
+Spremembe: izbor besednih oblik in frekvenc, pretvorba v male črke, odstranjevanje dvojnikov, izbor kontekstov in nadaljevanj, pretvorba v JavaScript. Licenca velja za predelane jezikovne podatke, ne določa licence ločene programske kode.
